@@ -445,6 +445,8 @@
   - [unslothai](https://github.com/unslothai/unsloth) - A framework that specializes in efficient fine-tuning. On its GitHub page, you can find ready-to-use fine-tuning templates for various LLMs, allowing you to easily train your own data for free on the Google Colab cloud.
   - [Axolotl](https://github.com/axolotl-ai-cloud/axolotl) - Open-source framework for fine-tuning and evaluating LLMs. It simplifies the process of experimenting with different training configurations and makes it easy to reproduce and share results, supporting features like LoRA, QLoRA, DeepSpeed, PEFT, and multi-GPU setups.
 
+  -  [VeloGrad](https://github.com/IDKLETSCODESOMETHIN/VeloGrad) - Bare-metal neural engine with 73.3% training VRAM reduction (ZeRO-3) and 88.9% KV cache memory savings via Copy-on-Write PagedAttention.
+
 </details>
 
 
