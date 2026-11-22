@@ -426,6 +426,9 @@
 - [Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale.
 - [torchtitan](https://github.com/pytorch/torchtitan) - A native PyTorch Library for large model training.
 
+- [VeloGrad](https://github.com/IDKLETSCODESOMETHIN/VeloGrad) - Bare-metal neural engine with 73.3% training VRAM reduction (ZeRO-3) and 88.9% KV cache memory savings via Copy-on-Write PagedAttention.
+
+
 <details>
 <summary>other frameworks</summary>
 
